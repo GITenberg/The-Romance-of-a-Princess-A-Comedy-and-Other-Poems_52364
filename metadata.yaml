@@ -1,0 +1,27 @@
+_repo: The-Romance-of-a-Princess-A-Comedy-and-Other-Poems_52364
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roddick, Amy Redpath
+    birthdate: 1868
+    deathdate: 1954
+    gutenberg_agent_id: '46300'
+    url: http://www.gutenberg.org/2009/agents/46300
+description: ''
+gutenberg_issued: '2016-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52364'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian poetry -- 20th century'
+- !lcsh 'Canadian drama -- 20th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The romance of a princess, a comedy -- The tall palmetto -- Charleston
+  -- Lake George -- The Evening Star.
+title: 'The Romance of a Princess: A Comedy; and Other Poems'
+url: http://www.gutenberg.org/ebooks/52364
